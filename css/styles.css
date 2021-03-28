@@ -1,0 +1,34 @@
+body {
+    background-image: url("/img/vintage-concrete.png");
+    background-repeat: round;
+}
+
+
+header {
+    font-family: 'Rock Salt', cursive;
+}
+
+
+h1,
+h2 {
+    font-family: 'Bad Script', cursive;
+}
+
+mark {
+    font-weight: bold;
+    background-color: lightsalmon;
+}
+
+
+textarea {
+    height: 125px;
+}
+
+#subject {
+    height: 35px;
+}
+
+#label-1 {
+    height: 15px;
+    line-height: 2px;
+}
